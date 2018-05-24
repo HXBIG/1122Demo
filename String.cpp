@@ -2,7 +2,7 @@
 
 //这是一个简单测试
 //这是一个String.cpp
-//真是很重要的东西
+//真是很重要的东西------
 Class String{
 private:
     int len;
