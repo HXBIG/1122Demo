@@ -1,5 +1,6 @@
 
 
+//这是一个简单测试
 Class String{
 private:
     int len;
