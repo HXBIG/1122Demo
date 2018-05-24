@@ -1,7 +1,10 @@
 
 
 Class String{
-
+private:
+    int len;
+    char*rep;
+public:
 const Strinf& operator=(const String&s1)
 {
   if(this!=&s1)
