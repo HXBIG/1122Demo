@@ -1,6 +1,7 @@
 
 
 //这是一个简单测试
+//这是一个String.cpp
 Class String{
 private:
     int len;
